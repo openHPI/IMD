@@ -1,0 +1,17 @@
+{
+  "name": "imd",
+  "version": "1.0.0",
+  "description": "Minimalistic AMD-compatible module loader",
+  "main": "imd.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openHPI/imd.git"
+  },
+  "keywords": [
+    "imd",
+    "amd",
+    "module-loader"
+  ],
+  "author": "The Polymer Authors and community (patches)",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}
